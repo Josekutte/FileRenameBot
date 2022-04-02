@@ -3,15 +3,15 @@
   "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
   "keywords": [
     "telegram",
-    "best",
+    "best", 
     "open",
     "source",
     "Rename"
   ],
   "success_url": "https://t.me/rename1robot",
   "website": "https://github.com/No-OnE-Kn0wS-Me",
-  "repository": "https://github.com/No-OnE-Kn0wS-Me/FileRenameBot",
-  "env": {
+  "repository": "https://github.com/Josekutte/FileRenameBot",
+  "env": 
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
       "value": "ANYTHING"
